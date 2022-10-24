@@ -27,6 +27,8 @@ Design phase 1: Requirements.
 
 - Data storage: 
     - sql (Textfile optional).
+    - printable forms.
+    - printable brackets
 
     
 - Users: 
