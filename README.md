@@ -1,4 +1,6 @@
 # simpleTracker
+
+/////////////////////////////////////////
 Design phase 1: Requirements.
 
 - number of players: 
@@ -32,12 +34,21 @@ Design phase 1: Requirements.
       - Game admin
       - Team Coach (for team sign ups)
       - individual user (for solo tournament sign ups) 
+      
+- contact: future extension
+    - email/text about tournament.
+        - timetable
+        - brackets
+        
+- BIG PICTURE:
+    - Concepts:
+      - Email
+      - Sql
+      - interface
+      - Custom events
+      - Error handling
+      - Random Order
+      - Sending information
+      
+      
 
-- Concepts:
-  - Email
-  - Sql
-  - interface
-  - Custom events
-  - Error handling
-  - Random Order
-  - Sending information
