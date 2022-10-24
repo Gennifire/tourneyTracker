@@ -1,5 +1,7 @@
 # simpleTracker
 Design phase 1: Requirements.
+
+
 Structure: windows forms.
 Data: sql and or Text.
 Users: one for now (extendable: team captain etc.)
