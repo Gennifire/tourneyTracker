@@ -1,6 +1,7 @@
 # simpleTracker
 
-/////////////////////////////////////////
+//////////////
+
 Design phase 1: Requirements.
 
 - number of players: 
