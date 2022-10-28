@@ -37,7 +37,7 @@ namespace simpleTracker
             // 
             this.listBox1.FormattingEnabled = true;
             this.listBox1.ItemHeight = 16;
-            this.listBox1.Location = new System.Drawing.Point(619, 79);
+            this.listBox1.Location = new System.Drawing.Point(626, 60);
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(341, 516);
             this.listBox1.TabIndex = 0;
