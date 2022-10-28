@@ -1,6 +1,8 @@
 # simpleTracker
 
 //////////////
+Think about design pattern that this could benefit from
+
 
 Design phase 1: Requirements.
 
