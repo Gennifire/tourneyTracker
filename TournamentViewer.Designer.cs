@@ -35,10 +35,13 @@ namespace simpleTracker
             this.label3 = new System.Windows.Forms.Label();
             this.RoundSelect = new System.Windows.Forms.ComboBox();
             this.chkUnplayed = new System.Windows.Forms.CheckBox();
-            this.label4 = new System.Windows.Forms.Label();
+            this.Points = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
+            this.pointsBox2 = new System.Windows.Forms.TextBox();
+            this.pointsBox1 = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // matchUpListBox
@@ -105,16 +108,16 @@ namespace simpleTracker
             this.chkUnplayed.Text = "Unplayed Only";
             this.chkUnplayed.UseVisualStyleBackColor = true;
             // 
-            // label4
+            // Points
             // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Century Gothic", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.ForeColor = System.Drawing.Color.DarkRed;
-            this.label4.Location = new System.Drawing.Point(490, 410);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(78, 28);
-            this.label4.TabIndex = 6;
-            this.label4.Text = "Points";
+            this.Points.AutoSize = true;
+            this.Points.Font = new System.Drawing.Font("Century Gothic", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Points.ForeColor = System.Drawing.Color.DarkRed;
+            this.Points.Location = new System.Drawing.Point(490, 410);
+            this.Points.Name = "Points";
+            this.Points.Size = new System.Drawing.Size(78, 28);
+            this.Points.TabIndex = 6;
+            this.Points.Text = "Points";
             // 
             // label5
             // 
@@ -149,15 +152,45 @@ namespace simpleTracker
             this.label7.TabIndex = 9;
             this.label7.Text = "<name>";
             // 
+            // pointsBox2
+            // 
+            this.pointsBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.pointsBox2.Location = new System.Drawing.Point(614, 416);
+            this.pointsBox2.Name = "pointsBox2";
+            this.pointsBox2.Size = new System.Drawing.Size(140, 34);
+            this.pointsBox2.TabIndex = 10;
+            // 
+            // pointsBox1
+            // 
+            this.pointsBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.pointsBox1.Location = new System.Drawing.Point(614, 247);
+            this.pointsBox1.Name = "pointsBox1";
+            this.pointsBox1.Size = new System.Drawing.Size(139, 34);
+            this.pointsBox1.TabIndex = 11;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Century Gothic", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.ForeColor = System.Drawing.Color.DarkRed;
+            this.label4.Location = new System.Drawing.Point(566, 306);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(96, 37);
+            this.label4.TabIndex = 12;
+            this.label4.Text = "- VS -";
+            // 
             // TournamentViewer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(891, 722);
+            this.ClientSize = new System.Drawing.Size(797, 722);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.pointsBox1);
+            this.Controls.Add(this.pointsBox2);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
-            this.Controls.Add(this.label4);
+            this.Controls.Add(this.Points);
             this.Controls.Add(this.chkUnplayed);
             this.Controls.Add(this.RoundSelect);
             this.Controls.Add(this.label3);
@@ -180,10 +213,13 @@ namespace simpleTracker
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.ComboBox RoundSelect;
         private System.Windows.Forms.CheckBox chkUnplayed;
-        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label Points;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.TextBox pointsBox2;
+        private System.Windows.Forms.TextBox pointsBox1;
+        private System.Windows.Forms.Label label4;
     }
 }
 
