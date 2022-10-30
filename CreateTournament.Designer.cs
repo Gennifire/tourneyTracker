@@ -142,7 +142,7 @@ namespace simpleTracker
             this.selectedTeams.ItemHeight = 16;
             this.selectedTeams.Location = new System.Drawing.Point(478, 146);
             this.selectedTeams.Name = "selectedTeams";
-            this.selectedTeams.Size = new System.Drawing.Size(335, 276);
+            this.selectedTeams.Size = new System.Drawing.Size(335, 260);
             this.selectedTeams.TabIndex = 20;
             // 
             // label4
@@ -160,7 +160,7 @@ namespace simpleTracker
             // 
             this.deleteTeam.Font = new System.Drawing.Font("Century Gothic", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.deleteTeam.ForeColor = System.Drawing.Color.DarkRed;
-            this.deleteTeam.Location = new System.Drawing.Point(563, 454);
+            this.deleteTeam.Location = new System.Drawing.Point(560, 436);
             this.deleteTeam.Name = "deleteTeam";
             this.deleteTeam.Size = new System.Drawing.Size(182, 52);
             this.deleteTeam.TabIndex = 22;
@@ -171,7 +171,7 @@ namespace simpleTracker
             // 
             this.button3.Font = new System.Drawing.Font("Century Gothic", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.DarkRed;
-            this.button3.Location = new System.Drawing.Point(255, 546);
+            this.button3.Location = new System.Drawing.Point(271, 545);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(317, 52);
             this.button3.TabIndex = 23;
