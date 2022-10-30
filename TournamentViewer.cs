@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace simpleTracker
 {
-    public partial class Form1 : Form
+    public partial class TournamentViewer : Form
     {
-        public Form1()
+        public TournamentViewer()
         {
             InitializeComponent();
         }

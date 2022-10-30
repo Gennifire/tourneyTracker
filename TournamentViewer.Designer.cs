@@ -1,7 +1,7 @@
 ﻿
 namespace simpleTracker
 {
-    partial class Form1
+    partial class TournamentViewer
     {
         /// <summary>
         /// Required designer variable.
