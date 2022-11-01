@@ -59,3 +59,11 @@ Design phase 1: Requirements.
       - Sending information
       
       
+/////////////////////
+
+UI development
+
+- Main Tournament UI
+    - Select team / player from matchups
+- Create tournament
+    - Select Team to 
