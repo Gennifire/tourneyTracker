@@ -59,3 +59,20 @@ Design phase 1: Requirements.
       - Sending information
       
       
+/////////////////////
+
+UI development
+
+- Main Tournament view form
+    - Select team / player from matchups
+    - view players in tournament.
+- Create tournament form
+    - Select Team to add to tournament
+    - Delete team from tournament.
+- Create Team form
+    - Add new team
+    - Add players to team
+    - Delete players from team
+    - Read current teams.
+- Create Prize form
+    - Create prize type (G,S,B, monetary etc.)
