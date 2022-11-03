@@ -77,3 +77,7 @@ Design phase 2:UI development
     - Read current teams.
 - Create Prize form
     - Create prize type (G,S,B, monetary etc.)
+
+////////
+
+Design phase 3: Database design
