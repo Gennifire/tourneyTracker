@@ -61,7 +61,8 @@ Design phase 1: Requirements.
       
 /////////////////////
 
-UI development
+Design phase 2:UI development
+
 
 - Main Tournament view form
     - Select team / player from matchups
