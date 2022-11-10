@@ -5,6 +5,7 @@
 - Think about design pattern that this could benefit from
 - Think about  ui / ux in initial build.
 - progress to wpf or website
+- 
 
 
 Design phase 1: Requirements.
