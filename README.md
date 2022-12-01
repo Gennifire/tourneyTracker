@@ -11,13 +11,13 @@ Design phase 1: Requirements.
 
 - number of players: 
     - variable? 
-    - if not complete / even (over) players skips to next round.
+    - if not complete / even, over players skips to next round.
     - Randomise players to brackets.
     
  - Brackets
     - schedule games?
        - whats system will we use for scheduling?
-    - Are round able to be played out of order (round 2 finished before round 1, can round 3 begin?)
+    - Are rounds able to be played out of order (round 2 finished before round 1, can round 3 begin?)
     - points for winning bracket (0/1: win lose?) (points earned in comp: greater or less than)
  
  - prize option
@@ -38,7 +38,7 @@ Design phase 1: Requirements.
 
     
 - Users: 
-    - one for now 
+    - team for now 
     - extendable:
       - Game admin
       - Team Coach (for team sign ups)
