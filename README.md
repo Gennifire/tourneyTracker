@@ -60,7 +60,7 @@ Design phase 1: Requirements.
       - Sending information
       
       
-/////////////////////
+/////////////////////////
 
 Design phase 2:UI development
 
