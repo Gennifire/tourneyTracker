@@ -89,6 +89,6 @@ Design phase 2:UI development
 
 Design phase 3: Database design
 
-Basic Uml design
+Basic intial Uml design
 
 ![UML tournament tracker](https://user-images.githubusercontent.com/72698786/200116925-347c7eb6-6eaf-4feb-9988-4c7618b2dd89.png)
