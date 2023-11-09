@@ -1,7 +1,8 @@
 # tourneyTracker
 
 ////////////////////////
--Initial Thoughts:
+
+Initial Thoughts:
 
     - Think about design pattern that this could benefit from
     - Think about  ui / ux in initial build.
